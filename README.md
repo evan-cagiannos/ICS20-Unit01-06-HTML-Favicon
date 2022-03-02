@@ -1,4 +1,4 @@
-# ICS20-Unit01-06-HTML-Favicon[![GitHub's Super Linter]
+# ICS20-Unit01-06-HTML-Favicon
 
 (https://github.com/evan-cagiannos/ICS20-Unit01-06-HTML-Favicon/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/evan-cagiannos/ICS20-Unit01-06-HTML-Favicon/actions)
 
